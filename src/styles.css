@@ -1,0 +1,94 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+  margin-left: 340px;
+}
+
+h4 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.city {
+  display: block;
+  padding: 2px 350px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  font-size: 25x;
+  text-align: center;
+}
+
+.searching {
+  border: solid 2px;
+  position: fixed;
+  background-color: white;
+  border-radius: 10px;
+  top: 0px;
+  left: 1230px;
+  padding: 1px 23px;
+}
+
+.location {
+  border: solid 2px;
+  position: fixed;
+  background-color: white;
+  border-radius: 10px;
+  top: 35px;
+  left: 1225px;
+  padding: 1px auto;
+}
+
+.weather {
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 340px;
+}
+
+.temp {
+  position: fixed;
+  top: 250px;
+  left: 240px;
+}
+
+.info {
+  position: relative;
+  margin-left: 980px;
+  top: -173px;
+}
+
+.advice {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  margin-top: -90px;
+}
+
+.week {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 1000px;
+  height: 245px;
+}
+
+.col {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.day {
+  width: 80px;
+  margin-top: -10px;
+}
