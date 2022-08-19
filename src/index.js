@@ -228,7 +228,6 @@ let n =0;
 for (let y = t; y<5;y++)
 {
   d=0+n;
-  alert(d)
   n++;
   if (d<=6)
   {
