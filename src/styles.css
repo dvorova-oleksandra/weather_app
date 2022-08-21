@@ -88,7 +88,7 @@ a:hover {
   font-size: 20px;
 }
 
-.day {
+.day1,  .day2, .day3,.day4,.day5{
   width: 80px;
   margin-top: -10px;
 }
